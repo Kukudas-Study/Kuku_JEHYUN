@@ -12,7 +12,7 @@ lend = 0
 # 대충 땅크기 250*250, 땅최대 0-256, 1610만회 -> 1초 안걸림 0.8초쯤?
 for standard in range(mine_low, mine_high+1):
     dig = fill = tmp_time = 0
-    # 키 벨류로 나오니까 따로 받기
+    # 키 벨류로 나오니까 따로 받아서 처리
     for ground, cnt in mine.items():
         # 기준보다 낮은 땅이면
         if ground < standard:
