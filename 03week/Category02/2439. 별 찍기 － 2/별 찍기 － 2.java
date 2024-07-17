@@ -13,7 +13,6 @@ public class Main {
 				} else {
 					ans += " ";
 				}
-
 			}
 			System.out.println(ans);
 		}
