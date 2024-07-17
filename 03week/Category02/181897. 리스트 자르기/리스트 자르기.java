@@ -39,6 +39,7 @@ class Solution {
                     idx++;
                 }
                 break;
+                
         }
         
         return answer;
