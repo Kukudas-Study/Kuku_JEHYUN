@@ -12,6 +12,6 @@ public class Main {
 			}
 		}
 		System.out.println(maxNum);
-		System.out.println(idx);
+		System.out.println(idx); 
 	}
 }
