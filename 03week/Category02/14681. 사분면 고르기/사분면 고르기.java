@@ -13,6 +13,7 @@ public class Main {
 		} else if (x<0 && y>0) {
 			ans = 2;
 		}
+		
 		System.out.println(ans);
 	}
 }
