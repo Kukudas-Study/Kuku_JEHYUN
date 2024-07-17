@@ -26,7 +26,6 @@ public class Main {
                 b--;
             }
         }
-
         for (int i = 1; i <= n; i++) {
             System.out.print(arr[i] + " ");
         }
