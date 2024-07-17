@@ -11,7 +11,6 @@ class Solution {
             d++;
             cnt +=2;
         }
-        
         return answer;
     }
 }
