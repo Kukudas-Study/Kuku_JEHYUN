@@ -6,7 +6,7 @@ public class Main {
 		String[] time = sc.nextLine().split(" ");
 		int hour = Integer.parseInt(time[0]), minute = Integer.parseInt(time[1]);
 		int needTime = sc.nextInt();
-		
+		 
 		minute += needTime;
 		if (minute >= 60) {
 			hour += minute / 60;
