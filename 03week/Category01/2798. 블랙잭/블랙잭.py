@@ -10,4 +10,4 @@ for i in range(n):
             # m보다 합이 작거나 같고, 합이 원래 저장된 합보다 크면 초기화
             if sum_cards <= m and sum_cards > ans:
                 ans = sum_cards
-print(ans)
+print(ans) 
