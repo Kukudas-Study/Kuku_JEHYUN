@@ -17,6 +17,7 @@ public class Main {
 			num = Integer.parseInt(st[i]);
 			sum += (double) num*100/maxNum;
 		}
+		
 		System.out.println(sum / n);
 	}
 }
