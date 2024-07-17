@@ -10,5 +10,5 @@ public class Main {
 			answer = 1;
 		}
 		System.out.println(answer);
-	}
+	} 
 }
