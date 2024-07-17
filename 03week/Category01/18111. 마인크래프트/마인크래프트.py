@@ -33,6 +33,6 @@ for standard in range(mine_low, mine_high+1):
         # 원래 시간보다 덜 걸린다면 초기화
         if tmp_time <= time:
             time = tmp_time
-            lend = standard
+            lend = standard 
 
 print(time, lend)
