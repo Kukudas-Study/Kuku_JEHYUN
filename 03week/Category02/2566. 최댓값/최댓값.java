@@ -14,7 +14,7 @@ public class Main {
 					y = j+1;
 				}
 			}
-		}
+		} 
 		System.out.println(maxNum);
 		System.out.println(x+" "+y);
 
