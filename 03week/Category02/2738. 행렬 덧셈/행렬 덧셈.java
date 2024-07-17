@@ -10,7 +10,7 @@ public class Main {
 	
 		for (int i=0;i<n;i++) {
 			for (int j=0;j<m;j++) {
-				int x = sc.nextInt();
+				int x = sc.nextInt(); 
 				mtx[i][j] = x;
 			}
 		}
